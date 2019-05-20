@@ -5,3 +5,8 @@
 Introduction to Data Science in Python
 
 
+## Course 2
+
+Applied Machine Learning in Python
+
+
